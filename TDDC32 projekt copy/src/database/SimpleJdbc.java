@@ -8,6 +8,8 @@ public class SimpleJdbc {
 	 * New branch
 	 * 
 	 * Edit branch woho
+	 * nsadjsn
+	 * not equal
 	 */
 	
 	public static void main(String[] args) throws SQLException, ClassNotFoundException {
