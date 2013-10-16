@@ -5,6 +5,7 @@ public class SimpleJdbc {
 
 	/**
 	 * @param args
+	 * New branch
 	 */
 	
 	public static void main(String[] args) throws SQLException, ClassNotFoundException {
